@@ -8,3 +8,4 @@ function draw() {
     context.strokeRect(45,45,50,50);
   }
 }
+
