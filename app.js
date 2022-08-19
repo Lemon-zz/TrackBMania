@@ -1,11 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Train</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
 
-function draw() {
-  var canvas = document.getElementById('canvas');
-  if (canvas.getContext) {
-    var context = canvas.getContext('2d');
+<body>
+    <canvas id="canvas" height="400" width="500">
+    </canvas>
 
-    context.fillRect(20,20,100,100);
-    context.clearRect(40,40,60,60);
-    context.strokeRect(45,45,50,50);
-  }
-}
+  <script src="js/app.js"></script>
+
+</body>
+
+</html>
