@@ -10,8 +10,6 @@ TrackBmania is built for DIYers and professionals seeking a customizable, reliab
 
 ## Hardware
 
-The TrackBmania trackball is powered by the following components:
-
 - **ESP32-S3 Microcontroller**: Easy programmable, cheap, have wireless USB connectivity.
 - **PMW3360 Optical Sensor**: Offers precision tracking with adjustable sensitivity from 100 CPI to 12,000 CPI in 100 CPI increments.
 - **HUANO Pink Switches (80M Cycles)**: Durable, tactile switches for reliable input. Compatible with standard switches like D2FC-F-7N (20M) for easy replacements.
@@ -19,11 +17,9 @@ The TrackBmania trackball is powered by the following components:
 
 ## Features
 
-TrackBmania stands out with its features:
-
 - **Metal Ball Bearings (3 TBUs)**: Ensures smooth, durable, and precise tracking.
-- **Metal Scroll Bearings**: Provides a premium, responsive scroll wheel experience.
-- **USB-C Connectivity**: Modern, reversible connection for power and data transfer.
+- **Metal Scroll Bearings**: Provides a smooth scroll wheel experience.
+- **USB-C Connectivity**:
 - **Ergonomic Palm Rest and Hand Angle**: Designed for comfort during extended use, reducing strain.
 - **Large 53mm Trackball**: Offers a substantial, comfortable surface for effortless control.
 
