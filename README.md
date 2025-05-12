@@ -25,7 +25,7 @@ TrackBmania is built for DIYers and professionals seeking a customizable, reliab
 - **5 Mouse Switches: Left, Right, Middle, Forward and Backward** - any button can make any function
 - **5 Tactile Switches** - For anything else
 - **Metal Ball Bearings (3 TBUs)**: Ensures smooth, durable, and precise tracking.
-- **Metal Scroll Bearings**: Provides a smooth scroll wheel experience.
+- **Metal Scroll Bearings**: Provides a smooth scroll wheel experience. 130 points on revolution. Smooth scrolling (by pixels not by string) can be enabled and disabled on the way.
 - **USB-C Connectivity**:
 - **Ergonomic Palm Rest and Hand Angle**: Designed for comfort during extended use, reducing strain.
 - **Large 53mm Trackball**: Offers a substantial, comfortable surface for effortless control.
