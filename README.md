@@ -22,6 +22,8 @@ TrackBmania is built for DIYers and professionals seeking a customizable, reliab
 - **USB-C Connectivity**:
 - **Ergonomic Palm Rest and Hand Angle**: Designed for comfort during extended use, reducing strain.
 - **Large 53mm Trackball**: Offers a substantial, comfortable surface for effortless control.
+  
+<img src="https://github.com/user-attachments/assets/5d84a9f0-f62c-458f-a835-36da804b9e55" alt="Scroll" width="300">
 
 ## Getting Started
 
