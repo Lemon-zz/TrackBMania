@@ -3,7 +3,7 @@
 **TrackBmania** is a free, open-source trackball project crafted for enthusiasts frustrated with overpriced, uncomfortable alternatives. Designed to deliver a high-performance, ergonomic experience, this project combines modern hardware with thoughtful design to redefine trackball usability.
 
 <img src="https://github.com/user-attachments/assets/9c9bc306-c74b-4f30-9348-3ac2fae841cd" alt="TrackBmania" width="300">
--
+<br>
 <img src="https://github.com/user-attachments/assets/a17a9866-e9fc-4399-8d03-f9f67938e9a6" alt="TrackBmania" width="300">
 <img src="https://github.com/user-attachments/assets/8635de4d-1da1-4fc7-a10f-f3e05396dfa1" alt="TrackBmania" width="300">
 <img src="https://github.com/user-attachments/assets/927ef58b-8eef-4648-87fb-1df18194f724" alt="TrackBmania" width="300">
@@ -24,9 +24,9 @@ TrackBmania is built for DIYers and professionals seeking a customizable, reliab
 ## Features
 
 - **5 Mouse Switches: Left, Right, Middle, Forward and Backward** - any button can make any function
-- **5 Tactile Switches** - For anything else
-- **Metal Ball Bearings (3 TBUs)**: Ensures smooth, durable, and precise tracking.
-- **Metal Scroll Bearings**: Provides a smooth scroll wheel experience. 130 points on revolution. Smooth scrolling (by pixels not by string) can be enabled and disabled on the way.
+- **5 Tactile Switches** - For anything else, including keyboard shortcuts.
+- **Metal Ball Bearings (3 TBUs)**: Ensures smooth, durable, and precise rolling.
+- **Metal Scroll Bearings**: Provides a smooth scroll wheel experience. 65 ticks per revolution. Smooth scrolling (by pixels, not by string) can be enabled and disabled on the way.
 - **USB-C Connectivity**:
 - **Ergonomic Palm Rest and Hand Angle**: Designed for comfort during extended use, reducing strain.
 - **Large 53mm Trackball**: Offers a substantial, comfortable surface for effortless control.
@@ -37,15 +37,10 @@ TrackBmania is built for DIYers and professionals seeking a customizable, reliab
 
 To build your own TrackBmania trackball, explore the repository for:
 
-- **Hardware Schematics**: Detailed diagrams for assembling the trackball.
-- **Firmware**: Customizable code for the ESP32-S3 to tailor functionality.
-- **Assembly Instructions**: Step-by-step guides to bring your trackball to life.
-
-Clone the repository and follow the documentation to get started:
-
-```bash
-git clone https://github.com/your-username/trackbmania.git
-```
+- **BOM**: Full list of components.
+- **PCB**: Schematics and Gerber files
+- **3D**: Files for printing
+- **USer manual**: Instructions
 
 
 ## Contact
