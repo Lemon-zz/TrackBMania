@@ -2,7 +2,7 @@
 
 **TrackBmania** is a free, open-source trackball project crafted for enthusiasts frustrated with overpriced, uncomfortable alternatives. Designed to deliver a high-performance, ergonomic experience, this project combines modern hardware with thoughtful design to redefine trackball usability.
 
-![TrackBmania](https://github.com/user-attachments/assets/9c9bc306-c74b-4f30-9348-3ac2fae841cd)
+<img src="https://github.com/user-attachments/assets/9c9bc306-c74b-4f30-9348-3ac2fae841cd" alt="TrackBmania" width="300">
 
 ## Overview
 
@@ -10,15 +10,16 @@ TrackBmania is built for DIYers and professionals seeking a customizable, reliab
 
 ## Hardware
 
-The TrackBmania trackball is powered by the following high-quality components:
+The TrackBmania trackball is powered by the following components:
 
-- **ESP32-S3 Microcontroller**: Enables seamless wireless connectivity for versatile use.
+- **ESP32-S3 Microcontroller**: Easy programmable, cheap, have wireless USB connectivity.
 - **PMW3360 Optical Sensor**: Offers precision tracking with adjustable sensitivity from 100 CPI to 12,000 CPI in 100 CPI increments.
 - **HUANO Pink Switches (80M Cycles)**: Durable, tactile switches for reliable input. Compatible with standard switches like D2FC-F-7N (20M) for easy replacements.
+- **WS2812 Led Strip** - if you want more customiztion or effects
 
 ## Features
 
-TrackBmania stands out with its carefully engineered features:
+TrackBmania stands out with its features:
 
 - **Metal Ball Bearings (3 TBUs)**: Ensures smooth, durable, and precise tracking.
 - **Metal Scroll Bearings**: Provides a premium, responsive scroll wheel experience.
