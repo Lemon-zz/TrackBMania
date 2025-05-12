@@ -3,6 +3,11 @@
 **TrackBmania** is a free, open-source trackball project crafted for enthusiasts frustrated with overpriced, uncomfortable alternatives. Designed to deliver a high-performance, ergonomic experience, this project combines modern hardware with thoughtful design to redefine trackball usability.
 
 <img src="https://github.com/user-attachments/assets/9c9bc306-c74b-4f30-9348-3ac2fae841cd" alt="TrackBmania" width="300">
+![image](https://github.com/user-attachments/assets/a17a9866-e9fc-4399-8d03-f9f67938e9a6)
+![image](https://github.com/user-attachments/assets/8635de4d-1da1-4fc7-a10f-f3e05396dfa1)
+![image](https://github.com/user-attachments/assets/927ef58b-8eef-4648-87fb-1df18194f724)
+![image](https://github.com/user-attachments/assets/716bc3b1-fbbd-40ad-87d2-8f6f5e700e95)
+
 
 ## Overview
 
@@ -17,6 +22,8 @@ TrackBmania is built for DIYers and professionals seeking a customizable, reliab
 
 ## Features
 
+- **5 Mouse Switches: Left, Right, Middle, Forward and Backward** - any button can make any function
+- **5 Tactile Switches** - For anything else
 - **Metal Ball Bearings (3 TBUs)**: Ensures smooth, durable, and precise tracking.
 - **Metal Scroll Bearings**: Provides a smooth scroll wheel experience.
 - **USB-C Connectivity**:
