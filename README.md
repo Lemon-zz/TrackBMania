@@ -10,6 +10,11 @@ And i want it to have smooth scroll - and i made it. Now i scroll not by 3 rows,
 
 I printed it with Elegoo Saturn 4 Ultra.
 
+Ball: Standard 57.2mm billiard.
+Sensor: PMW3360
+Rotating encoder: TCUT1300X01
+Switches: Huano Pink
+
 BOM:
 
 So, to assembly full device you will need:
@@ -24,6 +29,9 @@ So, to assembly full device you will need:
 8. 10 x MR42  2x4x2(mm) chrome steel Miniature Bearings
 9. M2.5 x 8 Screws
 10. 57.2mm classic billiard ball
+
+
+
 
 Also i recommend use of M6x1.0 thread cutter - not neccessary but makes installing BTUs much easier.
 
