@@ -10,6 +10,19 @@ And i want it to have smooth scroll - and i made it. Now i scroll not by 3 rows,
 
 I printed it with Elegoo Saturn 4 Ultra.
 
+BOM:
+
+So, to assembly full device you will need:
+
+1. PCB with soldered components (obviously) - look here 
+2. Case
+3. Buttons
+4. Ball holder and bearing separator
+5. 2 parts of wheel/gear.
+6. 3x TBU QX319 (easily find on ali)
+7. 10 x MR42 10 Pieces 2*4*2(mm) chrome steel Miniature Bearings
+8. M2.5 x 8 Screws
+
 <img src="https://github.com/user-attachments/assets/9c9bc306-c74b-4f30-9348-3ac2fae841cd" alt="TrackBmania" width="300">
 <img src="https://github.com/user-attachments/assets/a17a9866-e9fc-4399-8d03-f9f67938e9a6" alt="TrackBmania" width="300">
 <img src="https://github.com/user-attachments/assets/8635de4d-1da1-4fc7-a10f-f3e05396dfa1" alt="TrackBmania" width="300">
