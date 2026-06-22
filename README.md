@@ -8,6 +8,8 @@ As controller i use ESP32-S3 - it have built-in USB for programming and work, al
 
 And i want it to have smooth scroll - and i made it. Now i scroll not by 3 rows, but pixel-by-pixel.
 
+I printed it with Elegoo Saturn 4 Ultra.
+
 <img src="https://github.com/user-attachments/assets/9c9bc306-c74b-4f30-9348-3ac2fae841cd" alt="TrackBmania" width="300">
 <img src="https://github.com/user-attachments/assets/a17a9866-e9fc-4399-8d03-f9f67938e9a6" alt="TrackBmania" width="300">
 <img src="https://github.com/user-attachments/assets/8635de4d-1da1-4fc7-a10f-f3e05396dfa1" alt="TrackBmania" width="300">
