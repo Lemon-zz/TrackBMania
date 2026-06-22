@@ -14,7 +14,7 @@ BOM:
 
 So, to assembly full device you will need:
 
-1. PCB with soldered components (obviously) - look here https://github.com/Lemon-zz/TrackBMania/blob/main/BOM/TrackBManiaV3%20PCB%20BOM.xlsx
+1. PCB with soldered components (obviously) - look here https://github.com/Lemon-zz/TrackBMania/blob/main/BOM
 2. Printables  - Look in 3D folder:
   1. Case
   2. Buttons
