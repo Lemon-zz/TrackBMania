@@ -14,14 +14,18 @@ BOM:
 
 So, to assembly full device you will need:
 
-1. PCB with soldered components (obviously) - look here 
-2. Case
-3. Buttons
-4. Ball holder and bearing separator
-5. 2 parts of wheel/gear.
-6. 3x TBU QX319 (easily find on ali)
-7. 10 x MR42 10 Pieces 2*4*2(mm) chrome steel Miniature Bearings
-8. M2.5 x 8 Screws
+1. PCB with soldered components (obviously) - look here https://github.com/Lemon-zz/TrackBMania/blob/main/BOM/TrackBManiaV3%20PCB%20BOM.xlsx
+2. Printables  - Look in 3D folder:
+  1. Case
+  2. Buttons
+  3. Ball holder and bearing separator
+  4. 2 parts of wheel/gear.
+7. 3x BTU QX319 (easily find on ali)
+8. 10 x MR42 10 Pieces 2*4*2(mm) chrome steel Miniature Bearings
+9. M2.5 x 8 Screws
+10. 57.2mm classic billiard ball
+
+Also i recommend use of M6x1.0 thread cutter - not neccessary but makes installing BTUs much easier.
 
 <img src="https://github.com/user-attachments/assets/9c9bc306-c74b-4f30-9348-3ac2fae841cd" alt="TrackBmania" width="300">
 <img src="https://github.com/user-attachments/assets/a17a9866-e9fc-4399-8d03-f9f67938e9a6" alt="TrackBmania" width="300">
