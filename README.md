@@ -21,7 +21,7 @@ So, to assembly full device you will need:
   3. Ball holder and bearing separator
   4. 2 parts of wheel/gear.
 7. 3x BTU QX319 (easily find on ali)
-8. 10 x MR42 10 Pieces 2*4*2(mm) chrome steel Miniature Bearings
+8. 10 x MR42  2x4x2(mm) chrome steel Miniature Bearings
 9. M2.5 x 8 Screws
 10. 57.2mm classic billiard ball
 
