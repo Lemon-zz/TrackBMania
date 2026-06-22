@@ -1,7 +1,4 @@
 **TrackBmania** is a free, open-source trackball project.
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6363e762-beae-4c86-b609-3179efabc92b" />
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/a63690c0-fed1-48ae-92ee-6c538e4ae7be" />
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/30e1012e-fc9b-4156-b3fc-466e51ba0bd0" />
 
 ## Overview
 
@@ -33,10 +30,12 @@ So, to assembly full device you will need:
 9. M2.5 x 8 Screws
 10. 57.2mm classic billiard ball
 
-
-
-
 Also i recommend use of M6x1.0 thread cutter - not neccessary but makes installing BTUs much easier.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6363e762-beae-4c86-b609-3179efabc92b" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/a63690c0-fed1-48ae-92ee-6c538e4ae7be" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/30e1012e-fc9b-4156-b3fc-466e51ba0bd0" />
+
 
 <img src="https://github.com/user-attachments/assets/9c9bc306-c74b-4f30-9348-3ac2fae841cd" alt="TrackBmania" width="300">
 <img src="https://github.com/user-attachments/assets/a17a9866-e9fc-4399-8d03-f9f67938e9a6" alt="TrackBmania" width="300">
