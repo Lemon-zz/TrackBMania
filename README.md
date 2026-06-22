@@ -8,6 +8,8 @@ As controller i use ESP32-S3 - it have built-in USB for programming and work, al
 
 And i want it to have smooth scroll - and i made it. Now i scroll not by 3 rows, but pixel-by-pixel.
 
+Im using it basically for couple of years - pretty good yet.
+
 I printed it with Elegoo Saturn 4 Ultra.
 
 Ball: Standard 57.2mm billiard.
