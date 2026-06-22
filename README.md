@@ -20,7 +20,10 @@ Rotating encoder: TCUT1300X01
 <br>
 Switches: Huano Pink
 <br>
+<br>
+<br>
 BOM:
+<br>
 
 So, to assembly full device you will need:
 
