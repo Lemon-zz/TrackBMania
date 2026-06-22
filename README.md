@@ -1,4 +1,7 @@
 **TrackBmania** is a free, open-source trackball project.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6363e762-beae-4c86-b609-3179efabc92b" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/a63690c0-fed1-48ae-92ee-6c538e4ae7be" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/30e1012e-fc9b-4156-b3fc-466e51ba0bd0" />
 
 ## Overview
 
